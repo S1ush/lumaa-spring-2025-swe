@@ -1,6 +1,7 @@
-# Task Management Application
+# Lumaa swe Challenge 
 
-A full-stack task management application built with React + TypeScript, NestJS, and PostgreSQL.
+Name: Yash Bhole
+Contact: ybhole@binghamton.edu
 
 ## Demo Video
 [Link to Demo Video](https://drive.google.com/file/d/1ijjpQ71UIvb47O26bhqBD-LYw0APJwrJ/view?usp=sharing)
