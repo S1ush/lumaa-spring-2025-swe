@@ -1,4 +1,4 @@
-# Lumaa swe Challenge 
+# Lumaa SWE Challenge 
 
 Name: Yash Bhole
 Contact: ybhole@binghamton.edu
